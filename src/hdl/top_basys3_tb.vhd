@@ -69,9 +69,9 @@ architecture test_bench of top_basys3_tb is
       
   end component;
   
-    signal w_S1 : std_logic;
-    signal w_Cout1 : std_logic; 
-    signal w_Cout2 : std_logic;
+   --signal w_S1 : std_logic;
+    --signal w_Cout1 : std_logic; 
+    --signal w_Cout2 : std_logic;
     signal w_sw : std_logic_vector (2 downto 0);
     signal w_led : std_logic_vector (1 downto 0);
     
