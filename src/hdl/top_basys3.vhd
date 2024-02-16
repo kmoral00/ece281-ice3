@@ -20,7 +20,8 @@
 --|							 
 --|					Outputs: led (1:0)   --> sum output and carry out.
 --|
---| DOCUMENTATION : None
+--| DOCUMENTATION : C3C Jana Algharaibeh helped me by explaing how when defining
+--|                 my w_S1, w_Cout1, and w_Cout2 they needed to be defined as std_logic.
 --|
 --+----------------------------------------------------------------------------
 --|

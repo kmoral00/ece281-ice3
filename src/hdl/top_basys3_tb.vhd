@@ -15,7 +15,9 @@
 --| CREATED       : 01/30/2019 Last Modified 06/24/2020
 --| DESCRIPTION   : This file implements a test bench for the full adder top level design.
 --|
---| DOCUMENTATION : None
+--| DOCUMENTATION : C3C Ethan Chapman helped me regarding explaining how I needed to declear the swithces and leds. 
+--|                 C3C Cook helped me by explaing how when defining the switches and leds I needed to define them as signal vectors and not just std_logic.
+--|
 --|
 --+----------------------------------------------------------------------------
 --|
